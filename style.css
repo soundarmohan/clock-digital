@@ -1,5 +1,7 @@
+body{
+     background-color:red;
+}
 #clock {
-    background-color:red;
     font-size: 5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 50px;
