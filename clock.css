@@ -1,6 +1,7 @@
 #clock {
-    background-color:red width="400px" height="400px";
-    font-size: 2em;
-    text-align: center;
+    background-color:red;
+    font-size: 5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 50px;
+    text-align: center;
 }
